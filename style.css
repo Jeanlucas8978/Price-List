@@ -1,0 +1,18 @@
+body {
+    background-color: #146368;
+    color: #000000;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.bg-white {
+    color: #ffffff;
+}
+
+.bg-transition {
+    background-color: green;
+}
+
+.carousel {
+    width: 40%;
+    height: 40%;
+}
